@@ -12,8 +12,8 @@ Solving Bin Packaging problem by Genetic algorithm
 
 Task is to cover area of huge rectangle by limited number of smaller rectangles. Below is two examples of good and bad solution.
 
-![screenshot](screenshots/good solution.png?raw=true)
-![screenshot](screenshots/bad solution.png?raw=true)
+![screenshot](screenshots/good_solution.png?raw=true)
+![screenshot](screenshots/bad_solution.png?raw=true)
 
 
 
