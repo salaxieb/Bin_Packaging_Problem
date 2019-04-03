@@ -16,16 +16,14 @@ Task is to cover area of huge rectangle by limited number of smaller rectangles.
 ![screenshot](screenshots/bad_solution.png?raw=true)
 
 
+### Idea:
 
+Main problem with euristic solution is overlay of boxes one to another. Solution of problem is putting boxes on top of each other. First, gen parameter is flag of turning box to 90 degr., second is level, where you want to put box, third left or right position of box in this level
 
-![screenshot](screenshots/digits_after.png?raw=true)
+![screenshot](screenshots/position_choice.png?raw=true)
 
-For human it makes digits less recognisible, but for NN digits start to look more similar
-
-### Result:
+### Results:
 
 ![screenshot](screenshots/results.png?raw=true)
 
-## **~5% improovement compare to same architechture, without preprocessing**
-
-!important: no improovement in case of usage CNN
+	
